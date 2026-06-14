@@ -1,6 +1,6 @@
 # 🎵 Spotify South India Music Trends & Mood Analysis
 
-> Analyzing 710+ Spotify songs from South India — uncovering mood trends, popular artists, and audio patterns across Telugu, Tamil, Malayalam, Kannada, and Hindi music from 2016 to 2026.
+> Analyzing 700+ Spotify songs from South India — uncovering mood trends, popular artists, and audio patterns across Telugu, Tamil, Malayalam, Kannada, and Hindi music from 2016 to 2026.
 
 ---
 
