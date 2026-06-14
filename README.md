@@ -27,7 +27,7 @@ This project covers the complete data analytics workflow:
 
 | Parameter | Details |
 |-----------|---------|
-| Total Songs | 710 |
+| Total Songs | 700+ |
 | Languages | Telugu, Tamil, Hindi, Malayalam, Kannada |
 | Time Period | 2016 – 2026 |
 | Source | Spotify playlists via Exportify |
@@ -94,7 +94,7 @@ This project covers the complete data analytics workflow:
 | **Exportify** | Extracted Spotify playlist data |
 | **Microsoft Excel** | Data cleaning, mood & genre classification |
 | **MySQL Workbench** | SQL queries and data analysis |
-| **Power BI** | Interactive dashboard (coming soon) |
+| **Power BI** | Interactive dashboard (uploading soon) |
 
 ---
 
@@ -117,7 +117,7 @@ This project covers the complete data analytics workflow:
 
 ## 📊 Dashboard
 
-> Power BI dashboard coming soon!
+> Power BI dashboard uploading soon!
 
 **Planned Pages:**
 - **Page 1** — Overview (KPIs, language distribution, mood breakdown, year trend)
